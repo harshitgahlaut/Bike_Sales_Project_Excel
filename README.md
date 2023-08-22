@@ -22,14 +22,16 @@ eg: M with Married in the "MaritalStatus" column,
 
 ## Data Analysis
 Five pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between Bike Purchase and other factrs such as Average Income, commute distance, Profession Home ownership and age.
+
 Below is a snippet of the pivot tables in Excel.
-![]()
+![](https://github.com/harshitgahlaut/Bike_Sales_Project_Excel/blob/main/Pivots.JPG)
 
 ## Data Visualization
 Finally, the dashboard was created by inserting and  customizing the pivot charts of corresponding  pivot table.
 For user friendly and interactive experience  3 "Slicers" were added.
+
 Below is a snippet of the final dashboard in Excel.
-![]()
+![](https://github.com/harshitgahlaut/Bike_Sales_Project_Excel/blob/main/Dashboarrd.JPG)
 
 ## Insights
 From the analysis, we get to know the following information about bike purchasers:
