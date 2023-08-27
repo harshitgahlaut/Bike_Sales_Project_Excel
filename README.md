@@ -4,6 +4,10 @@
 In this project, I have analysed a bike company's data to understand different factors that are considered by the customers before making a purchase decision. The final output of this project is a dashboard which provides a comprehensive overview of bike sales data, allowing stakeholders to analyse trends, identify patterns, and make informed decisions.
 
 **__Disclaimer__** : _All datasets and reports do not represent any institution comapny or country and is just a dummy dataset to demonstrate Excel capabilities._
+
+## Tech Stack Used 
+![Excel](https://img.icons8.com/color/256/microsoft-excel-2019.png)
+
 ## Data Sourcing
 After downloading  the dataset file in Excel format, we start by creating 3 new sheets:
 1.	"Working" sheet: a copy of the original data where we can perform all the cleaning procedures, without worrying about transforming or even losing our raw table.
