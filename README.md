@@ -28,14 +28,15 @@ eg: M with Married in the "MaritalStatus" column,
 Five pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between Bike Purchase and other factors such as Average Income, commute distance, Profession Home ownership and age.
 
 Below is a snippet of the pivot tables in Excel.
-![](https://github.com/harshitgahlaut/Bike_Sales_Project_Excel/blob/main/Pivots.JPG)
+![Pivots](https://github.com/harshitgahlaut/Bike_Sales_Project_Excel/assets/142779836/5ef7fb9c-d4c2-4d2a-8518-7471ee4693e7)
 
 ## Data Visualization
 Finally, the dashboard was created by inserting and  customizing the pivot charts of corresponding  pivot table.
 For user friendly and interactive experience  3 "Slicers" were added.
 
 Below is a snippet of the final dashboard in Excel.
-![](https://github.com/harshitgahlaut/Bike_Sales_Project_Excel/blob/main/Dashboarrd.JPG)
+![Dashboarrd](https://github.com/harshitgahlaut/Bike_Sales_Project_Excel/assets/142779836/b5bc2e3b-4b71-42a0-b6fd-59c8b03baaac)
+
 
 ## Insights
 From the analysis, we get to know the following information about bike purchasers:
@@ -50,7 +51,6 @@ From the analysis, we get to know the following information about bike purchaser
 - Middle Age Group (31-54) shows the highest number of purchases. The management should ensure that it should target this segmen of population.
 - An inverse linear relationship indicates that as the commuters' distance increases, they prefer other means of transportation other than bike riding so the company should focus on short distance commuters.
 - Homewoners are much more likely to respond to offers and discounts so they must be focused.
-- 
 
 ## End
 Thank you for your time. Feel free to give your valuable suggestions and connect with me on 
