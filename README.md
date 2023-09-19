@@ -1,4 +1,4 @@
-# Bike_Sales_Project_Excel
+# 🏍️ Bike Sales Dashboard
 
 ## Project Description
 In this project, I have analysed a bike company's data to understand different factors that are considered by the customers before making a purchase decision. The final output of this project is a dashboard which provides a comprehensive overview of bike sales data, allowing stakeholders to analyse trends, identify patterns, and make informed decisions.
